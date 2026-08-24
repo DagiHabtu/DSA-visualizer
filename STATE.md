@@ -16,6 +16,7 @@ Live status. Updated at **every task boundary**. This file, `BUILD_PLAN.md`, `CL
 | **Current structure** | DSA-1 — Dynamic Arrays & Two Pointers |
 | **Learning depth** | Interview (curriculum's stated depth for this gate) |
 | **Fan-out** | **FORBIDDEN** — one serial agent (`engine-architect`) until Gate 1 passes |
+| **Remote** | `https://github.com/DagiHabtu/DSA-visualizer` — **public**, `main`. Created 2026-08-24; first commit is the whole Phase-1 spine. Ignored: `node_modules/`, `dist/`, `.check/`, `.claude/settings.local.json`. `aesthetic/` and `reference/` **are** pushed and therefore public. |
 
 ### Correctness target (DSA-1)
 
