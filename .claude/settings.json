@@ -1,0 +1,9 @@
+{
+  "availableModels": [
+    "claude-opus-5",
+    "claude-opus-4-8",
+    "claude-opus-4-6",
+    "claude-sonnet-5"
+  ],
+  "enforceAvailableModels": true
+}

@@ -1,0 +1,7 @@
+node_modules/
+.claude/settings.local.json
+dist/
+.check/
+*.log
+.DS_Store
+.vite/
